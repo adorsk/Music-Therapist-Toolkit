@@ -1,4 +1,4 @@
-Music-Therapist-Helper
+Music-Therapist-Toolkit
 ======================
 
-Music Therapist Helper: An App to Help Music Therapists
+Music Therapist Tookit: An App to Help Music Therapists
